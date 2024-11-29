@@ -1,0 +1,3 @@
+C:/Users/EL-soney/OneDrive/Desktop/last inchaalaah/loyaloya/Praktikum/03_HitSpheres/Starter/cmake-build-debug/CMakeFiles/03_HitSphere.dir
+C:/Users/EL-soney/OneDrive/Desktop/last inchaalaah/loyaloya/Praktikum/03_HitSpheres/Starter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EL-soney/OneDrive/Desktop/last inchaalaah/loyaloya/Praktikum/03_HitSpheres/Starter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
